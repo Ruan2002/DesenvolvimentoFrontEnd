@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(153, 95, 207);
+    text-align: center;
+    font-family: 'calibri light', calibri, arial, sans-serif;
+}
+
+#myTab{
+    background-color: grey;
+}
+
+#myTabContent{
+    background-color: grey;
+    text-align: start;
+    font-family: 'calibri light', calibri, arial, sans-serif;
+    border: 20cap;
+}
+
+#home{
+    padding: auto;
+}
+
+#perfil{
+    padding: auto;
+}
+
+#contato{
+    padding: auto;
+}
